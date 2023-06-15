@@ -1,2 +1,2 @@
 # Employee App
-Using Java spring, Maven
+Using Java spring, Maven project and JDBC with MySQL
